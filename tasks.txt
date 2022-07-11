@@ -1,0 +1,174 @@
+(7lvl)
+https://www.codewars.com/kata/54ff3102c1bad923760001f3	(required)
+https://www.codewars.com/kata/52fba66badcd10859f00097e	(required)  
+https://www.codewars.com/kata/546e2562b03326a88e000020	(required)	
+https://www.codewars.com/kata/546e2562b03326a88e000020	(required)
+https://www.codewars.com/kata/546e2562b03326a88e000020	(required)
+https://www.codewars.com/kata/554b4ac871d6813a03000035	(required)
+https://www.codewars.com/kata/56747fd5cb988479af000028	(required)
+https://www.codewars.com/kata/54c27a33fb7da0db0100040e	(required)
+https://www.codewars.com/kata/5467e4d82edf8bbf40000155	(required)
+https://www.codewars.com/kata/53dbd5315a3c69eed20002dd	(required)
+https://www.codewars.com/kata/5390bac347d09b7da40006f6	(required)
+https://www.codewars.com/kata/5667e8f4e3f572a8f2000039	(required)
+https://www.codewars.com/kata/55908aad6620c066bc00002a	(required)
+https://www.codewars.com/kata/54ba84be607a92aa900000f1	(required)
+https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9	(required)
+https://www.codewars.com/kata/554e4a2f232cdd87d9000038	(required)
+https://www.codewars.com/kata/55f2b110f61eb01779000053	(required)
+https://www.codewars.com/kata/5412509bd436bd33920011bc
+https://www.codewars.com/kata/5412509bd436bd33920011bc
+https://www.codewars.com/kata/563b662a59afc2b5120000c6
+https://www.codewars.com/kata/56606694ec01347ce800001b
+https://www.codewars.com/kata/5656b6906de340bd1b0000ac
+https://www.codewars.com/kata/55f8a9c06c018a0d6e000132
+https://www.codewars.com/kata/56269eb78ad2e4ced1000013
+https://www.codewars.com/kata/56269eb78ad2e4ced1000013
+https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
+https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
+https://www.codewars.com/kata/56541980fa08ab47a0000040
+https://www.codewars.com/kata/578553c3a1b8d5c40300037c
+(6 lvl)
+https://www.codewars.com/kata/514b92a657cdc65150000006	(required)
+https://www.codewars.com/kata/5266876b8f4bf2da9b000362	(required)
+https://www.codewars.com/kata/525f50e3b73515a6db000b83	(required)
+https://www.codewars.com/kata/54da5a58ea159efa38000836	(required)
+https://www.codewars.com/kata/541c8630095125aba6000c00	(required)
+https://www.codewars.com/kata/523f5d21c841566fde000009	(required)
+https://www.codewars.com/kata/5264d2b162488dc400000001	(required)
+https://www.codewars.com/kata/526571aae218b8ee490006f4	(required)
+https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1	(required)
+https://www.codewars.com/kata/5526fc09a1bbd946250002dc	(required)
+https://www.codewars.com/kata/54b42f9314d9229fd6000d9c	(required)
+https://www.codewars.com/kata/546f922b54af40e1e90001da	(required)
+https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec	(required)
+https://www.codewars.com/kata/54e6533c92449cc251001667	(required)
+https://www.codewars.com/kata/517abf86da9663f1d2000003	(required)
+https://www.codewars.com/kata/55c45be3b2079eccff00010f	(required)
+https://www.codewars.com/kata/556deca17c58da83c00002db	(required)
+https://www.codewars.com/kata/545cedaa9943f7fe7b000048	(required)
+https://www.codewars.com/kata/5287e858c6b5a9678200083c	(required)
+https://www.codewars.com/kata/5287e858c6b5a9678200083c	(required)
+https://www.codewars.com/kata/5552101f47fc5178b1000050	(required)
+https://www.codewars.com/kata/515de9ae9dcfc28eb6000001	(required)
+https://www.codewars.com/kata/54b724efac3d5402db00065e	(required)
+https://www.codewars.com/kata/585d7d5adb20cf33cb000235	(required)
+https://www.codewars.com/kata/5262119038c0985a5b00029f
+https://www.codewars.com/kata/550554fd08b86f84fe000a58
+https://www.codewars.com/kata/5208f99aee097e6552000148
+https://www.codewars.com/kata/5277c8a221e209d3f6000b56
+https://www.codewars.com/kata/5842df8ccbd22792a4000245
+https://www.codewars.com/kata/52c31f8e6605bcc646000082
+https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
+https://www.codewars.com/kata/51b62bf6a9c58071c600001b
+https://www.codewars.com/kata/587731fda577b3d1b0001196
+https://www.codewars.com/kata/5503013e34137eeeaa001648
+https://www.codewars.com/kata/57814d79a56c88e3e0000786
+https://www.codewars.com/kata/525f47c79f2f25a4db000025
+https://www.codewars.com/kata/569d488d61b812a0f7000015
+https://www.codewars.com/kata/5848565e273af816fb000449
+https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2
+https://www.codewars.com/kata/5727bb0fe81185ae62000ae3
+https://www.codewars.com/kata/58223370aef9fc03fd000071
+(5 lvl)
+https://www.codewars.com/kata/520b9d2ad5c005041100000f	(required)
+https://www.codewars.com/kata/52685f7382004e774f0001f7	(required)
+https://www.codewars.com/kata/52774a314c2333f0a7000688	(required)
+https://www.codewars.com/kata/55c6126177c9441a570000cc	(required)
+https://www.codewars.com/kata/52f787eb172a8b4ae1000a34	(required)
+https://www.codewars.com/kata/55c04b4cc56a697bb0000048	(required)
+https://www.codewars.com/kata/515bb423de843ea99400000a	(required)
+https://www.codewars.com/kata/54d512e62a5e54c96200019e	(required)
+https://www.codewars.com/kata/526dbd6c8c0eb53254000110	(required)
+https://www.codewars.com/kata/5279f6fe5ab7f447890006a7	(required)
+https://www.codewars.com/kata/52e88b39ffb6ac53a400022e	(required)
+https://www.codewars.com/kata/54d4c8b08776e4ad92000835	(required)
+https://www.codewars.com/kata/526989a41034285187000de4
+https://www.codewars.com/kata/5282b48bb70058e4c4000fa7
+https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa
+https://www.codewars.com/kata/52756e5ad454534f220001ef
+https://www.codewars.com/kata/5263a84ffcadb968b6000513
+https://www.codewars.com/kata/52f831fa9d332c6591000511
+https://www.codewars.com/kata/5259510fc76e59579e0009d4
+https://www.codewars.com/kata/56c30ad8585d9ab99b000c54
+(4 lvl)
+https://www.codewars.com/kata/52742f58faf5485cae000b9a	(required)
+https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+https://www.codewars.com/kata/51c8e37cee245da6b40000bd
+https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
+https://www.codewars.com/kata/5254ca2719453dcc0b00027d
+https://www.codewars.com/kata/55983863da40caa2c900004e
+
+
+
+
+ООП задачи
+
+1 (required) Реализовать interface List как связанный список 
+
+как следствие нужно знать что такое связанный список
+
+создаете класс public class SomeClass implements List  (убедитесь что заимпортировали из пакета collections)
+
+
+2 (required) Напишите классы конверторы для конвертации из градусов по Цельсию в 
+Кельвины​, ​Фаренгейты​, и так далее. У классов должен быть метод convert, который
+и делает конвертацию.
+
+классы должны реализовывать следующий интерфес
+
+interface Converter {
+    double getConvertedValue(double baseValue);
+}
+
+название классов по типу CelsiusConverter, KelvinConverter и тд
+
+
+3 Напишите свой класс StringBuilder с поддержкой операции undo. Для этого делегируйте все методы стандартному StringBuilder, а в собственном классе храните список всех операций для выполнения undo().
+
+ваш класс должен быть наследником StringBuilder
+
+
+4 (required) Напишите​ метод​ filter,​ который​ принимает​ на​ вход​ массив​ (любого​ типа)​ и реализацию​ ​интерфейса Filter​ c методом​ apply(Object​ o),​ чтобы​ убрать​ из​ массива лишнее.
+Проверьте как он работает на строках или других объектах.
+
+у вас должен быть реализован следующий интерфейс 
+
+interface Filter {
+    boolean apply(Object o);
+}
+
+реализация должна выглядеть так
+
+String[] newArray =  (String[]) filter(array, new Filter() {
+            @Override
+            public boolean apply(Object o) {
+                // you code
+            }
+        });
+
+где метод фильтер - метдо класса Main и выглядит так
+
+ public static Object[] filter(Object[] array, Filter filter)
+ 
+ 
+ 
+5 (required) Напишите метод, который на вход получает коллекцию объектов, а возвращает коллекцию уже без дубликатов.
+
+сигнатура -  public static <T> Collection<T> removeDuplicates(Collection<T> collection)
+
+
+
+6 Напишите класс который будет уметь итерироваться по массивам (object[])
+класс должен иметь методы 
+	hasNext()
+	next()
+	
+	
+7 Напишите метод, который получает на вход массив элементов типа К (Generic) и возвращает Map<K, Integer>, где K — значение из массива, а Integer — количество вхождений в массив.
+То есть сигнатура метода выглядит так: 
+
+<K> Map<K, Integer> arrayToMap(K[] ks);
+
+
+8 Напишите метод, который получает на вход Map<K, V> и возвращает Map, где ключи и значения поменяны местами
