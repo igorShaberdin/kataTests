@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CarListTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-07-19T15:00:52" hostname="user-desktop" time="0.028">
+  <properties/>
+  <testcase name="whenGetBrand" classname="org.example.CarListTest" time="0.01"/>
+  <testcase name="whenIndexOutOfBounds" classname="org.example.CarListTest" time="0.002"/>
+  <testcase name="whenRemoveNoCarReturnFalse" classname="org.example.CarListTest" time="0.002"/>
+  <testcase name="whenAdded100ElementsThenSize100" classname="org.example.CarListTest" time="0.002"/>
+  <testcase name="whenRemoveCarIndex" classname="org.example.CarListTest" time="0.0"/>
+  <testcase name="clearAll" classname="org.example.CarListTest" time="0.0"/>
+  <testcase name="whenRemoveCar" classname="org.example.CarListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
